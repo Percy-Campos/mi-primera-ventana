@@ -26,5 +26,6 @@ public class Paneles {
         ventana.setContentPane(panelPrincipal);
         ventana.repaint();
         ventana.revalidate();
+        System.out.println("comentario de prueba");
     }
 }
